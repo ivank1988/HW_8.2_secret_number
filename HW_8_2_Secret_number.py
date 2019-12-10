@@ -6,7 +6,7 @@
 
 
 
-secret = 5
+secret = int(input("define the secret number"))
 
 guess = int(input("Guess the secret number:"))
 
